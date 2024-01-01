@@ -1,10 +1,8 @@
-[![MasterHead](https://www.canva.com/design/DAF4nxQ7_XM/Vi7JWlXBh1TtYiW0cbX5PQ/edit?ui=eyJHIjp7fX0)
+<img  align="right" alt="Coder girl" src="https://unsplash.com/photos/woman-in-black-and-white-striped-long-sleeve-shirt-sitting-in-front-of-black-flat-screen-9i5zipnKJ14">
 
 <h3 align="center">A technocrat who always seeks an opportunity to apply the learning in the real world. </h3> 
 
-<h2> If you are already here, then kindly make a glimpse on my repositories on Github.</h2>
-
-<img align="right" alt="Coder girl" width="400" src="https://giphy.com/stickers/work-digital-art-imcleem-dopFZQOlSQSE0ir2Dm">
+<h2> If you are already here, then kindly take a glimpse at my repositories on Github.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaq04&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaq04" /> </p>
 
@@ -18,15 +16,15 @@
 
 - 😄 Pronouns: **She/Her**
 
-- 🏆 2024 Goals: Contribute more to open source projects.
+- 🏆 2024 Goals: Contribute more to open-source projects.
 
-- 📝 I regularly write articles on: [https://medium.com/@ayeshaquazi04](https://medium.com/@ayeshaquazi04)
+- 📝 I regularly write articles on: https://medium.com/@ayeshaquazi04
 
 - 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **aayeshaquazi04@gmail.com**
 
-- ⚡ **Would love to connect with like minded people.**
+- ⚡ **Would love to connect with like-minded people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
