@@ -1,6 +1,6 @@
-<h2>A technocrat who always seeks an opportunity to apply the learning in the real world. </h2> 
+<h2 align="center"> Enthusiastic technocrat applying learning to the real world.  </h2> 
 
-<h3 align="center"> If you are already here, then kindly take a glimpse at my Github repositories.</h3>
+<h3 align="center"> Check out my Github repositories for more. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaq04&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaq04" /> </p>
 
