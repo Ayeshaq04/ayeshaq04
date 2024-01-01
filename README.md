@@ -1,8 +1,6 @@
-[![MasterHead] (https://unsplash.com/photos/woman-in-black-and-white-striped-long-sleeve-shirt-sitting-in-front-of-black-flat-screen-9i5zipnKJ14)
+<h2>A technocrat who always seeks an opportunity to apply the learning in the real world. </h2> 
 
-<h3 align="center">A technocrat who always seeks an opportunity to apply the learning in the real world. </h3> 
-
-<h2> If you are already here, then kindly take a glimpse at my repositories on Github.</h2>
+<h3 align="center"> If you are already here, then kindly take a glimpse at my Github repositories.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaq04&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaq04" /> </p>
 
@@ -13,8 +11,6 @@
 - 😄 Pronouns: **She/Her**
 
 - 🏆 2024 Goals: Contribute more to open-source projects.
-
-- 📝 I regularly write articles on: https://medium.com/@ayeshaquazi04
 
 - 💬 Ask me about **Frontend**
 
