@@ -1,14 +1,10 @@
-<img  align="right" alt="Coder girl" src="https://unsplash.com/photos/woman-in-black-and-white-striped-long-sleeve-shirt-sitting-in-front-of-black-flat-screen-9i5zipnKJ14">
+[![MasterHead] (https://unsplash.com/photos/woman-in-black-and-white-striped-long-sleeve-shirt-sitting-in-front-of-black-flat-screen-9i5zipnKJ14)
 
 <h3 align="center">A technocrat who always seeks an opportunity to apply the learning in the real world. </h3> 
 
 <h2> If you are already here, then kindly take a glimpse at my repositories on Github.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaq04&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaq04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayeshaq04" alt="ayeshaq04" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ayeshaquazi1" target="blank"><img src="https://img.shields.io/twitter/follow/ayeshaquazi1?logo=twitter&style=for-the-badge" alt="ayeshaquazi1" /></a> </p>
 
 - 🌱 I’m currently learning more about: **Fullstack, Opensource and Data Structures and Algorithm.**
 
