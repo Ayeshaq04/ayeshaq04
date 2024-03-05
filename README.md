@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ayesha!</h1>
-<h3 align="center">A technocrat who always seeks an opportunity to apply the learning in the real world. If you are already here, then kindly make a glimpse on my repositories on Github.</h3>
+<h3 align="center">A technocrat who always seeks an opportunity to apply the learning in the real world. If you are already here, then kindly take a glimpse at my repositories on Github.</h3>
 
-- 🌱 I’m currently learning more about: **Fullstack, Opensource and Data Structures and Algorithm.**
+- 🌱 I’m currently learning more about: **Full Stack, Opensource and Data Structures and Algorithm.**
 
 - 👯 I’m looking to collaborate on: **Projects based on React.**
 
