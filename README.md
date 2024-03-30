@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Ayesha!</h1>
 <h3 align="center">A technocrat who always seeks an opportunity to apply the learning in the real world. If you are already here, then kindly take a glimpse at my repositories on Github.</h3>
 
+<picture>
+  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+</picture>
+
 - 🌱 I’m currently learning more about: **Full Stack, Opensource and Data Structures and Algorithm.**
 
 - 👯 I’m looking to collaborate on: **Projects based on React.**
